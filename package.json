@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/magicismight/react-native-root-modal"
+    "url": "https://github.com/carpages/react-native-root-modal"
   },
   "dependencies": {
     "@carpages/react-native-root-siblings": "1.2.2-0" 
